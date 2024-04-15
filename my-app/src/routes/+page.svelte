@@ -24,7 +24,7 @@
 	<Counter />
 </section>
 <section class="introduction">
-	<div class="introduction">Here you can roam around and get a rough idea of...</div>
+	<div class="intro">Here you can roam around and get a rough idea of...</div>
 	<div class="worklink">my actual work</div>
 	<div class="bioLink">my bio</div>
 	<div class="codinglink">my attempts to improve my coding</div>
